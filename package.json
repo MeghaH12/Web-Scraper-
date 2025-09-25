@@ -1,0 +1,15 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple, lightweight REST API for managing a collection of books built with Node.js and Express.js. This API provides full CRUD (Create, Read, Update, Delete) operations with in-memory storage - no database required!",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
